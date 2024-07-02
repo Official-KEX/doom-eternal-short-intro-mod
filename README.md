@@ -8,12 +8,12 @@
 $~~~~~~~~~~~$
 
 ## :clipboard: About:<br />
-Replaces the loud and 30s long Boot/Startup Video with a 3 Second Clip<br />
+Replaces the loud and 30s long Boot/Startup-Video with a 3 second clip<br />
 <br />
-**This will probably only useful for a few people, but:**<br />
+**This will probably only be useful for a few people, but:**<br />
 Using the "Launch Option Parameter" `+com_skipIntroVideo 1` has the potential to, *for whatever fucking reason*, <br />
 break your savegame or make the game not load your profile. Replacing the intro video with a shorter video, <br />
-instead of skipping it, seems to fix the problem.At least for me it works. Thats why im sharing it with others.</br>
+instead of skipping it, seems to fix the problem. At least for me it works. Thats why im sharing it with others.</br>
 
 ---
 
